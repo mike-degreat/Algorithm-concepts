@@ -5,4 +5,4 @@ def iterative_factorial(n):
     return fact
 
 
-print(iterative_factorial(10))
+print(iterative_factorial(n))

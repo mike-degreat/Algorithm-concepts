@@ -7,4 +7,4 @@ def recur_factorial(n):
     return temp
 
 
-print(recur_factorial(5))
+print(recur_factorial(n))
